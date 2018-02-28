@@ -1,0 +1,7 @@
+public class Chess extends Board
+{
+    public Chess()
+    {
+        
+    }
+}
